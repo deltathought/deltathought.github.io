@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hello"
+date:   2021-01-12 16:25:05 -0700
+categories: beginning first-posts
+---
+This is my first post. I'm going to be blogging semi-regularly about what I've been learning in my physics classes to solidify my knowledge. If I can teach what I'm learning I'll be satisfied. Hopefully preserving my mistakes will allow me to go back and see what progress I've made and where I need to go next.
+
+We're learning computational methods and indroductory modern physics. Special relativity is first, so I hope writing truly helps as much as is touted. 
