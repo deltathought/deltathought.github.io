@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Mario Golf: Toadstool Tour Game Design"
-categories: mario golf nintendo game-design review
+categories: game-design
+tags: mario golf nintendo game-design review
 ---
 I'm not sure why this is a good game. I enjoy it a great deal, but I'm not sure why.
 
