@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a blog about whatever I'm interested in at the time. The uppercase "Delta" (used in Physics to denote change or a derivative) alongside "Thought" (meaning the natural consequence of experiencing our surroundings and world) combine to show my desire to be flexible in how I view the world. Another purpose of this blog is to give myself a place to explain concepts I'm struggling with so I can learn them better. Understanding something for a greater purpose (like teaching it to others) is a faster way to learn than just trying to absorb it myself.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+If you have comments about any of my posts/ramblings or just want to chat, send me an e-mail at deltathought@protonmail.com or click [here](mailto:deltathought@protonmail.com).
+
+The site is hosted on GitHub Pages and is built using Jekyll.
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
