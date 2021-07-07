@@ -8,7 +8,7 @@ This is a blog about whatever I'm interested in at the time. The uppercase "Delt
 
 If you have comments about any of my posts/ramblings or just want to chat, send me an e-mail at deltathought@protonmail.com or click [here](mailto:deltathought@protonmail.com).
 
-If you like this blog, consider donating some Dogecoin! My address is: DQDUW9t3Lm2pGps81JF7RJBzRk4CNKvvva
+If you like this blog, consider donating some Dogecoin! My address is: [DQDUW9t3Lm2pGps81JF7RJBzRk4CNKvvva](https://chain.so/address/DOGE/DQDUW9t3Lm2pGps81JF7RJBzRk4CNKvvva)
 
 
 
