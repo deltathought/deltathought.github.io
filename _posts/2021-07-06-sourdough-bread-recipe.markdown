@@ -27,7 +27,7 @@ Approximately 2 hours 45 minutes
 - 1 part sourdough starter (equal parts flour and water by weight)
 - 2 parts water minus 1/8th. (Really 1-7/8ths part)
 - 3 parts flour
-- 1-2% salt (total weight of preceeding ingredients)
+- Salt -- 1-2% of the weight of the **flour**
 - Splash of olive oil during kneading to smooth the dough (not required)
 
 
@@ -36,8 +36,8 @@ Approximately 2 hours 45 minutes
 - 200g (grams) sourdough starter (with sprinkle of yeast if starter isn't strong/bubbly)
 - 350g water (200g * 2 = 400g - (1/8 * 400g) = 350g)
 - 600g flour (bread or all-purpose)
-- 11.5-23g salt (add 200g + 350g + 600g = 1,150g * 0.01 = 11.5g * 2 = 23g for your salt range. I prefer the lower end of the saltiness and use 12g.)
-drizzle of olive oil before kneading (IDK, like 1 Tbsp?)
+- 6-12g salt (This is 1-2% of the weight of the *flour*. I prefer more salt, so I use the full 2% (12g))
+- drizzle of olive oil before kneading (IDK, like 1 Tbsp?)
 
 
 ## Directions:
@@ -52,8 +52,8 @@ drizzle of olive oil before kneading (IDK, like 1 Tbsp?)
 - [ ] Let rest covered for 25 minutes
 
 - [ ] Pour drizzle of olive oil over dough
-- [ ] Knead again until elastic and shape
-- [ ] Place in floured proofing basket or back in bowl
+- [ ] Knead again until elastic and shape the dough
+- [ ] Place in floured proofing basket or back in bowl if you don't have one yet
 - [ ] Cover and let rest for 1 hour
 
 - [ ] Preheat oven to 475 F
